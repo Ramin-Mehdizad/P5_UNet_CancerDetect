@@ -6,7 +6,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Dataset](#Dataset)
-* [Run](#setup)
+* [Run](#Run)
 * [Contact](#contact)
 
 ## General info
@@ -17,8 +17,8 @@ model that is capable of detecting cancer regions in medical images.
 ## Technologies
 * Coded on Python 3.7.7 -- keras 2.3.1 -- tensorflow-gpu 1.14.0
 
-## Dattset
-* before running the code, unzip the dataset.zip into the python code folder , the n run the code.
+## Dataset
+* before running the code, unzip the dataset.rar into the python code folder , the n run the code.
 
 ## Run
 On command line, enter the following:\
