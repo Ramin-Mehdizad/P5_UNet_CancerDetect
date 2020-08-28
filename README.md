@@ -13,9 +13,6 @@ In this project a series of train data are available. The train data consists of
 corresponding mask pictures, the region of cancers are outlined by white color. Using U_Net, we can train a deep learning
 model that is capable of detecting cancer regions in medical images.
 
-## Noisy Moon Data
-![Example screenshot](noisy_moon_data.jpg)
-
 ## Technologies
 * Coded on Python 3.7.7 -- keras 2.3.1 -- tensorflow-gpu 1.14.0
 
