@@ -1,0 +1,19 @@
+# files and folders to be ignored
+
+
+# python specific files and folders
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# My Specified Files and folders
+DataSet/
+*.png
+*.log
+LICENSE.md
+Project_Description.pdf
+model-BCC-UNET-v1.0.h5.checkpoint
+
+
+
