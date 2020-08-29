@@ -11,6 +11,7 @@ __pycache__/
 DataSet/
 *.png
 *.log
+*.rar
 LICENSE.md
 Project_Description.pdf
 model-BCC-UNET-v1.0.h5.checkpoint
